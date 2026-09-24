@@ -19,7 +19,7 @@ Systems rarely break at the protocol layer alone—they break at the boundary wh
 * Behavioral analysis system engineered to evaluate security risk, detect anomalies, and eliminate alert fatigue.
 * `Python` `Behavioral Analytics` `Threat Detection` `Risk Engine`
 
-**[InsightVox](https://github.com/namrah-k/InsightVox-Campus-Feedback-System)**
+[**[InsightVox](https://github.com/namrahriyazkhan/InsightVox-Campus-Feedback-System.git)**]
 * High-reliability feedback and operations platform designed for campus-wide tracking and rapid issue resolution with media uploads, private staff messaging, and real-time resolution tracking.
 * `JavaScript` `Node.js` `Express.js` `MongoDB` `REST Infrastructure`
 
